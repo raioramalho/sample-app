@@ -23,4 +23,4 @@ steps:
     - 'CLOUDSDK_COMPUTE_REGION=us-central1-a'
     - 'CLOUDSDK_CONTAINER_CLUSTER=hello-cluster'
 options:
- logging: CLOUD_LOGGING_ONLY
+  logging: CLOUD_LOGGING_ONLY
